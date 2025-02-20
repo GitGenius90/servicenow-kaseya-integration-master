@@ -1,1 +1,2 @@
-# servicenow-kaseya-integration-master
+# Servicenow Kaseya Integration
+Kaseya LiveConnect Integration from ServiceNow CMDB 
